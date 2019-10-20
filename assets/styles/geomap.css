@@ -1,0 +1,24 @@
+.image-upload > input
+{
+    display: none;
+}
+
+.image-upload img
+{
+    cursor: pointer;
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    max-height: 250px;
+
+}
+.graph{
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    max-height: 300px;
+}
+#geomap{
+    width: 100%;
+    height: 360px;
+}
